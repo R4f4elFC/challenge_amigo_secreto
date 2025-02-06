@@ -1,9 +1,9 @@
-<h1>Jogo do amigo secreto</h1>
+<h1>🎁 👤 Jogo do amigo secreto 👤 🎁</h1>
 
-<h2> Sobre</h2>
+<h2> Sobre 📕</h2>
 <p>Projeto desenvolvido no curso "Praticando Logica de programação: Challenge amigo secreto" ALURA/ONE(Oracle Next Education).</p>
 
-<h3>Funcionalidades:</h3>
+## Funcionalidades do projeto ⚙
 
 <u1>
       <li>Adicionar nomes:</li>
@@ -16,7 +16,8 @@
       Ao clicar no botão "Sortear Amigo", um nome da lista será selecionado aleatoriamente e exibido na página.
 </u1>
 
-##  Tecnologias
+
+##  Tecnologias 💻
 <div>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
